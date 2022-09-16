@@ -1,0 +1,5 @@
+owner_id         = "045978437674"
+ami_nginx_blue   = "ami-nginx-blue"
+ami_nginx_green  = "ami-nginx-green"
+ami_apache_blue  = "ami-apache-blue"
+ami_apache_green = "ami-apache-green"
